@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My [linkedin profile](https://www.linkedin.com/in/daniel-schirmacher/) provides a comprehensive overview of my
-CV. Below you find a brief summary of my education and work experience.
+CV. Below you find a brief summary of my education, work experience, and publications.
 
 Education
 ======
@@ -27,3 +27,11 @@ Work experience
 * Research intern, Central Institute of Mental Health, Mannheim, Germany (2011; 2013; 2014)
 * Research assistant, Ulm University, Ulm, Germany (2013)
 * Research assistant, Ansbach Hospital, Ansbach, Germany (2013)
+
+Publications
+======
+* **Schirmacher**, Armagan, Zhang, Kull, Auler and Schroeder. aiSEGcell: user-friendly deep learning
+software to segment nuclei in transmitted light images. _In submission_ (2024).
+* Dettinger, Kull, Arekatla, Ahmed, Zhang, Schneiter, Wehling, **Schirmacher**, Kawamura, Loeffler and
+Schroeder. Open-source personal pipetting robots with live-cell incubation and microscopy
+compatibility. _Nature Communications_ 13, 2999 (2022).
