@@ -11,3 +11,5 @@ My work and research focus on making ML usable for practitioners, especially in 
 
 * [aisegcell](https://github.com/CSDGroup/aisegcell): An implementation of [U-Net](https://arxiv.org/abs/1505.04597) to segment cell nuclei in transmitted light microscopy images.
 * [napari-aisegcell](https://github.com/CSDGroup/napari-aisegcell): A graphical user interface for the aisegcell package available via [napari](https://github.com/napari/napari).
+* [model-runner](https://github.com/kevinyamauchi/model-runner): CLI to submit a hyper-parameter optimization
+  (i.e. grid search) via [LSF](https://www.ibm.com/docs/en/spectrum-lsf/10.1.0) or [slurm](https://slurm.schedmd.com)
