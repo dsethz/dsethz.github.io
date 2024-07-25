@@ -14,7 +14,7 @@ CV. Below you find a brief summary of my education, work experience, and publica
 
 Education
 ======
-* Ph.D in Computer Vision for Bioimaging, ETH Zurich, Switzerland, 2024 (expected)
+* Ph.D in ML for Bioimaging, ETH Zurich, Switzerland, 2024 (expected)
 * M.S. in Biotechnology, ETH Zurich, Switzerland, 2019
 * B.S. in Molecular Biotechnology, Heidelberg University, Germany, 2017
 * B.S. in Psychology, Ulm University, Germany, 2014
@@ -31,7 +31,7 @@ Work experience
 Publications
 ======
 * **Schirmacher**, Armagan, Zhang, Kull, Auler and Schroeder. aiSEGcell: user-friendly deep learning
-software to segment nuclei in transmitted light images. _In revision_ (2024).
+software to segment nuclei in transmitted light images. _Accepted_ (2024).
 * Dettinger, Kull, Arekatla, Ahmed, Zhang, Schneiter, Wehling, **Schirmacher**, Kawamura, Loeffler and
 Schroeder. Open-source personal pipetting robots with live-cell incubation and microscopy
 compatibility. _Nature Communications_ 13, 2999 (2022).
