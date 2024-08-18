@@ -31,7 +31,7 @@ Work experience
 Publications
 ======
 * **Schirmacher**, Armagan, Zhang, Kull, Auler and Schroeder. aiSEGcell: user-friendly deep learning
-software to segment nuclei in transmitted light images. _Accepted_ (2024).
+software to segment nuclei in transmitted light images. _PLOS Computational Biology_, in press.
 * Dettinger, Kull, Arekatla, Ahmed, Zhang, Schneiter, Wehling, **Schirmacher**, Kawamura, Loeffler and
 Schroeder. Open-source personal pipetting robots with live-cell incubation and microscopy
-compatibility. _Nature Communications_ 13, 2999 (2022).
+compatibility. _Nature Communications_ 13, 2999 (2022). [https://doi.org/10.1038/s41467-022-30643-7](https://doi.org/10.1038/s41467-022-30643-7)
