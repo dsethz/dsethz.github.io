@@ -14,7 +14,7 @@ CV. Below you find a brief summary of my education, work experience, and publica
 
 Education
 ======
-* Ph.D in ML for Bioimaging, ETH Zurich, Switzerland, 2024 (expected)
+* Ph.D in ML for Bioimaging, ETH Zurich, Switzerland, 2025
 * M.S. in Biotechnology, ETH Zurich, Switzerland, 2019
 * B.S. in Molecular Biotechnology, Heidelberg University, Germany, 2017
 * B.S. in Psychology, Ulm University, Germany, 2014
