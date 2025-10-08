@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My work and research focus on making ML usable for practitioners, especially in the field of Biology. In my current role as a Ph.D. candidate, I utilize AI/ML to address limitations in widely used fluorescence microscopy. Some of my work includes:
+My work and research focus on making ML usable for practitioners, especially in the Life Sciences. In my current role as a PostDoc, I utilize AI/ML to address limitations in widely used fluorescence microscopy. Some of my work includes:
 
 * [aisegcell](https://github.com/CSDGroup/aisegcell): A deep learning-based image segmentation CLI that includes pretrained models for cell nucleus segmentations in bright field microscopy images.
 * [napari-aisegcell](https://github.com/CSDGroup/napari-aisegcell): A GUI for the [aisegcell](https://github.com/CSDGroup/aisegcell) package to segment nuclei and cells in bright field images.

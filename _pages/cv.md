@@ -14,13 +14,14 @@ CV. Below you find a brief summary of my education, work experience, and publica
 
 Education
 ======
-* Ph.D in ML for Bioimaging, ETH Zurich, Switzerland, 2025
-* M.S. in Biotechnology, ETH Zurich, Switzerland, 2019
-* B.S. in Molecular Biotechnology, Heidelberg University, Germany, 2017
-* B.S. in Psychology, Ulm University, Germany, 2014
+* Ph.D in ML for Bioimaging, ETH Zurich, Switzerland (2025)
+* M.S. in Biotechnology, ETH Zurich, Switzerland (2019)
+* B.S. in Molecular Biotechnology, Heidelberg University, Germany (2017)
+* B.S. in Psychology, Ulm University, Germany (2014)
 
 Work experience
 ======
+* PostDoc in ML for Bioimaging, ETH Zurich, Switzerland (2025)
 * Research intern, ETH Zurich, Switzerland (2016; 2017)
 * Innovation trainee, Leica Biosystems Nussloch GmbH, Heidelberg, Germany (2015)
 * Research intern, University of British Columbia, Vancouver, Canada (2014)
